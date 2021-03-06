@@ -13,4 +13,4 @@ We are provided with a Time Series problem involving prediction of number of com
 We are given 2 years of data(2012-2014) at hourly level with the number of commuters travelling and we need to estimate the number of commuters for future.
 
 ## Approach
-I have used the Holt-Winter method of moving averages to calculate the moving averages which takes into account the level, trend and the seasonality. Not bad for a first time, huh ? ;)
+I have used the Holt-Winter method of moving averages to calculate the moving averages which takes into account the level, trend and seasonality. Not bad for a first time, huh ? ;)
